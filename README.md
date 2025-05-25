@@ -30,4 +30,7 @@
 <code>npm install @mui/material @emotion/react @emotion/styled</code><br>
 <code>npm install @mui/icons-material</code>
 
+Для перерасчёта температуры использовал события потери фокуса и нажатия "Enter"
+
+Реализация [Temperature.js](components/Temperature.js).
 

@@ -4,7 +4,9 @@ import TemperatureConverter from './components/Temperature';
 
 function App() {
   return (
-  <TemperatureConverter />
+    <div className='central'>
+    <TemperatureConverter />
+    </div>
   );
 }
 
