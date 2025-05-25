@@ -32,5 +32,5 @@
 
 Для перерасчёта температуры использовал события потери фокуса и нажатия "Enter"
 
-Реализация [Temperature.js](components/Temperature.js).
+Реализация [Temperature.js](src/components/Temperature.js).
 
