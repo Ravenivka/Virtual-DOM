@@ -34,3 +34,9 @@
 
 Реализация [Temperature.js](src/components/Temperature.js).
 
+Список задач реализован с помощью TextField, Button, Card и DeleteIcon.
+
+Реализация [TodoList.js](src/components/TodoList.js).
+
+![alt text](image.png)
+
